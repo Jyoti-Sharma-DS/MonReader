@@ -29,7 +29,7 @@ The summary of the trained model looks like
 
 <br> 
 The code for the model can be found in below notebook <br>
-Notebook Link : https://github.com/Jyoti-Sharma-DS/ImageReader/blob/main/MonReader_CNN.ipynb
+Notebook Link :  https://nbviewer.org/github/Jyoti-Sharma-DS/MonReader/blob/main/MonReader_CNN.ipynb
 
 # Conclusion:
 The EfficientNet model with pretrained layers works best for out dataset. We are able to 98.8% accuracy in classifying Test images
